@@ -1,2 +1,2 @@
 # hello-world
-hello-world repository from Git class
+hello-world repository created in Git class offered by UVA Library services
